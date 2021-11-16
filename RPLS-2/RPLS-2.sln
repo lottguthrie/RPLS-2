@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPLS-2", "RPLS-2\RPLS-2.csproj", "{75077138-384C-4BEB-9C6B-47D34B6B1323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75077138-384C-4BEB-9C6B-47D34B6B1323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75077138-384C-4BEB-9C6B-47D34B6B1323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75077138-384C-4BEB-9C6B-47D34B6B1323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75077138-384C-4BEB-9C6B-47D34B6B1323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8EF7675-7B37-4E03-81C9-B76A8A214463}
+	EndGlobalSection
+EndGlobal
